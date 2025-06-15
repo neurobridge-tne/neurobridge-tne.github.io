@@ -470,6 +470,14 @@ footer {
     table.fixed-nav {
         padding: 10px 20px;
     }
+
+    .committee-container {
+      font-family: Arial, sans-serif;
+      font-size: 1.9rem !important; /* o usa il valore esatto che hanno gli altri testi */
+
+    }
+
+
 }
 
 /* Additional mobile adjustments for small screens */
