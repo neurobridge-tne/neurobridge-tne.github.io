@@ -61,7 +61,7 @@ body {
 }
 
 a {
-    color: rgb(228, 133, 90);
+    color: rgb(43, 60, 207);
     text-decoration: none;
 }
 
@@ -106,7 +106,7 @@ p {
 
 li a, p a {
     text-decoration: underline;
-    text-decoration-color: rgb(238, 195, 162);
+    text-decoration-color: rgb(43, 60, 207);
 }
 
 ul {
@@ -206,7 +206,6 @@ th, td {
     color: #fafafa;
     line-height: 1.5em;
     width: auto;
-    height: 100px;
     padding: 0px 27px 10px 0px;
     text-align: right;
     position: absolute;
@@ -220,7 +219,6 @@ th, td {
 /* Conference Title Logo */
 .title1 {
     color: rgb(25, 50, 120);
-    text-shadow: 1px 1px 3px #c0c0c0;
 }
 
 .title2 {
@@ -412,7 +410,7 @@ footer {
 }
 
 /* My hacky way of making the site mobile-friendly */
-@media only screen and (max-width: 1100px) {
+@media only screen and (max-width: 1200px) {
     .content {
         width: 90%;
         margin: 40px auto;
