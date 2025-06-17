@@ -190,7 +190,6 @@ th, td {
 
 .top-left {
     font-size: 4.0em;
-    font-weight:bold;
     color: #505050;
     position: absolute;
     padding: 0;               /* reset padding */
@@ -221,6 +220,7 @@ th, td {
 /* Conference Title Logo */
 .title1 {
     color: rgb(25, 50, 120);
+    font-weight: bold;
 }
 
 .title2 {
